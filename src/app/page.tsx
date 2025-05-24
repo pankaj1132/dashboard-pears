@@ -1,4 +1,4 @@
-import { auth } from "@/auth";
+
 
 "use client";
 export default async function Home() {
